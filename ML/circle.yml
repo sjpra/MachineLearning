@@ -1,11 +1,11 @@
 machine:
   python:
-    version: 3.5.1
+    version: 3.5.2
 
 dependencies:
-  post:
-    - pip install -U -r dev-requirements.txt
+  override:
+    - pip install -r requirements.txt
 
 test:
   override:
-    - py.test test_*.py
+    - nosetests tests/math-test.py
