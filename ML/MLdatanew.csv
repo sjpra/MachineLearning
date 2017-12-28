@@ -1,0 +1,48 @@
+loan_amnt,funded_amnt,funded_amnt_inv,term,int_rate,grade,sub_grade,purpose,title
+25000,25000,25000, 60 months,15.05%,C,C4,credit_card,Credit card refinancing
+26000,26000,26000, 36 months,9.93%,B,B2,home_improvement,Home improvement
+20000,20000,20000, 36 months,9.44%,B,B1,credit_card,Credit card refinancing
+10000,10000,10000, 36 months,7.21%,A,A3,credit_card,Credit card refinancing
+15000,15000,15000, 36 months,7.97%,A,A5,debt_consolidation,Debt consolidation
+2000,2000,2000, 36 months,7.07%,A,A2,medical,Medical expenses
+5800,5800,5800, 36 months,12.62%,C,C1,debt_consolidation,Debt consolidation
+18950,18950,18950, 60 months,21.45%,D,D5,credit_card,Credit card refinancing
+9600,9600,9600, 36 months,7.97%,A,A5,credit_card,Credit card refinancing
+7500,7500,7500, 36 months,7.35%,A,A4,debt_consolidation,Debt consolidation
+3000,3000,3000, 36 months,7.97%,A,A5,debt_consolidation,Debt consolidation
+7000,7000,7000, 36 months,7.35%,A,A4,debt_consolidation,Debt consolidation
+12000,12000,12000, 60 months,30.65%,F,F4,house,Home buying
+4200,4200,4200, 36 months,10.91%,B,B4,other,Other
+5000,5000,5000, 36 months,7.35%,A,A4,car,Car financing
+15000,15000,15000, 60 months,12.62%,C,C1,debt_consolidation,Debt consolidation
+10000,10000,10000, 36 months,9.44%,B,B1,credit_card,Credit card refinancing
+4000,4000,4000, 36 months,5.32%,A,A1,home_improvement,Home improvement
+3000,3000,3000, 36 months,16.02%,C,C5,major_purchase,Major purchase
+2400,2400,2400, 36 months,11.99%,B,B5,vacation,Vacation
+6000,6000,6000, 36 months,7.35%,A,A4,debt_consolidation,Debt consolidation
+6000,6000,6000, 36 months,9.44%,B,B1,credit_card,Credit card refinancing
+8000,8000,8000, 36 months,14.08%,C,C3,vacation,Vacation
+20000,20000,20000, 36 months,10.91%,B,B4,debt_consolidation,Debt consolidation
+2300,2300,2300, 36 months,12.62%,C,C1,credit_card,Credit card refinancing
+16000,16000,16000, 60 months,12.62%,C,C1,debt_consolidation,Debt consolidation
+7500,7500,7500, 36 months,7.35%,A,A4,debt_consolidation,Debt consolidation
+6025,6025,6025, 36 months,15.05%,C,C4,home_improvement,Home improvement
+6000,6000,6000, 36 months,10.42%,B,B3,medical,Medical expenses
+13000,13000,13000, 36 months,11.99%,B,B5,debt_consolidation,Debt consolidation
+12000,12000,12000, 36 months,9.44%,B,B1,debt_consolidation,Debt consolidation
+20400,20400,20400, 36 months,9.44%,B,B1,car,Car financing
+12000,12000,12000, 60 months,15.05%,C,C4,debt_consolidation,Debt consolidation
+11575,11575,11575, 36 months,7.35%,A,A4,credit_card,Credit card refinancing
+20400,20400,20400, 60 months,7.97%,A,A5,major_purchase,Major purchase
+7200,7200,7200, 36 months,24.85%,E,E3,debt_consolidation,Debt consolidation
+10000,10000,10000, 36 months,9.93%,B,B2,credit_card,Credit card refinancing
+4000,4000,4000, 36 months,7.97%,A,A5,debt_consolidation,Debt consolidation
+3600,3600,3600, 36 months,7.35%,A,A4,credit_card,Credit card refinancing
+12000,12000,12000, 60 months,14.08%,C,C3,debt_consolidation,Debt consolidation
+22000,22000,22000, 36 months,13.59%,C,C2,debt_consolidation,Debt consolidation
+10000,10000,10000, 36 months,15.05%,C,C4,debt_consolidation,Debt consolidation
+35000,35000,35000, 36 months,5.32%,A,A1,debt_consolidation,Debt consolidation
+11200,11200,11200, 36 months,12.62%,C,C1,credit_card,Credit card refinancing
+8000,8000,8000, 36 months,16.02%,C,C5,credit_card,Credit card refinancing
+11000,11000,11000, 36 months,12.62%,C,C1,debt_consolidation,Debt consolidation
+10000,10000,10000, 60 months,12.62%,C,C1,debt_consolidation,Debt consolidation
