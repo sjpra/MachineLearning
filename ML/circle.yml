@@ -1,12 +1,11 @@
-language: python
+machine:
+  python:
+    version: 3.5.1
 
-python:
-  - "nightly"
-  - "3.6"
-  - "3.5"
-  - "3.4"
-  - "2.7"
+dependencies:
+  post:
+    - pip install -U -r dev-requirements.txt
 
 test:
-  post:
-    - bundle exec rake custom:test:suite
+  override:
+    - py.test test_*.py
