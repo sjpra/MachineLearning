@@ -1,0 +1,11 @@
+machine:
+  python:
+    version: 3.5.1
+
+dependencies:
+  post:
+    - pip install -U -r dev-requirements.txt
+
+test:
+  override:
+    - py.test test_*.py
